@@ -20,6 +20,7 @@ Baby Kino, a brave mushroom, embarks on a journey through gardens and mazes to c
 - Level transitions and collision-based egg collection
 - Designed entirely with **Flutter (no Flame!)**
 - Three lives to survive obstacles
+- Background and setup done with free sprites.
 
 ## Progress
 - Start page, rules page and level one completed
